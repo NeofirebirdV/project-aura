@@ -1,1 +1,1 @@
-Main JavaScript entry
+function loadFocus() { alert('Loading Focus Protocol...'); }
